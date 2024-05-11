@@ -92,7 +92,7 @@ public class MakingMobs {
             makeMob = keyboard.nextLine();
             char quit = makeMob.charAt(0);
 
-            if (quit == 'q' || quit == 'Q') {
+            if (Character.toUpperCase(quit) == 'Q') {
                 isRunning = false;
             }
 
