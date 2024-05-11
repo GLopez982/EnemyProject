@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MakingMobs",
+            "request": "launch",
+            "mainClass": "MakingMobs",
+            "projectName": "src_8377209"
+        },
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+    ]
+}
